@@ -2,7 +2,7 @@
 
 AI-powered resume feedback and ATS scoring built with React, React Router v7, Tailwind CSS, TypeScript, and Puter.js (client-side auth/storage/AI).
 
-## Features
+##  Features
 
 - Upload a resume (PDF)
 - Provide target job title + description
